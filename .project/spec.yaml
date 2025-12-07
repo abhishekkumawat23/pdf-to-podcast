@@ -119,6 +119,8 @@ execution:
           description: ""
         - variable: NVIDIA_API_KEY
           description: ""
+        - variable: SENDER_EMAIL_PASSWORD
+          description: ""
     mounts:
         - type: project
           target: /project/
